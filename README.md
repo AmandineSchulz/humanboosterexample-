@@ -1,2 +1,3 @@
 Formation GIT
 Avec Human Booster
+Pourquoi faire des trucs aussi peu intuitifs...
